@@ -1,2 +1,2 @@
 >[!Important]
-https://reactpizz.netlify.app/
+[https://reactpizz.netlify.app/](https://pizza-react2.vercel.app/)
